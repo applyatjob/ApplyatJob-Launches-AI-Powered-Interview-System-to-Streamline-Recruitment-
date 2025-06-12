@@ -9,18 +9,18 @@ The newly launched AI Interview Feature is built to serve as a virtual interview
 Key Benefits for Employers:
 
 The AI interview feature provides numerous advantages to employers looking to optimize their recruitment process:
-. Time Efficiency: Instead of manually screening each applicant, employers receive pre-assessed interview results. This allows hiring managers to focus only on the most qualified candidates, accelerating the overall process.
-. Standardized Assessments: Every candidate is asked the same set of questions, ensuring consistency and reducing potential human bias during initial evaluations.
-. Data-Driven Insights: Employers are provided with AI-generated performance reports, offering structured feedback that aids in better decision-making.
-. Cost Reduction: Automating the first interview stage reduces the need for large recruiting teams or extended coordination, ultimately saving HR departments both time and money.
+- Time Efficiency: Instead of manually screening each applicant, employers receive pre-assessed interview results. This allows hiring managers to focus only on the most qualified candidates, accelerating the overall process.
+- Standardized Assessments: Every candidate is asked the same set of questions, ensuring consistency and reducing potential human bias during initial evaluations.
+- Data-Driven Insights: Employers are provided with AI-generated performance reports, offering structured feedback that aids in better decision-making.
+- Cost Reduction: Automating the first interview stage reduces the need for large recruiting teams or extended coordination, ultimately saving HR departments both time and money.
 
 Empowering Job Seekers:
 
 For candidates, this feature offers a number of valuable benefits:
-. Immediate Interview Access: No need to wait for a callback — candidates can move directly to the interview stage after submitting their application.
-. Convenience: Interviews can be completed at the applicant’s preferred time, removing the stress of scheduling conflicts.
-. Equal Opportunity: Every applicant is evaluated fairly through the same criteria and structure, helping reduce bias and leveling the playing field.
-. Faster Feedback: With AI assessment, candidates receive quicker results and can move to the next stage of hiring without unnecessary delays.
+- Immediate Interview Access: No need to wait for a callback — candidates can move directly to the interview stage after submitting their application.
+- Convenience: Interviews can be completed at the applicant’s preferred time, removing the stress of scheduling conflicts.
+- Equal Opportunity: Every applicant is evaluated fairly through the same criteria and structure, helping reduce bias and leveling the playing field.
+- Faster Feedback: With AI assessment, candidates receive quicker results and can move to the next stage of hiring without unnecessary delays.
 
 A Vision for Smarter Hiring:
 
